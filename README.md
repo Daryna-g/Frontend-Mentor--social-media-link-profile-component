@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-i8s38GQ82W)
-- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Blog-preview-card-main-solution/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-media-link-profile-ulgGAGkLBX)
+- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--social-media-link-profile-component/)
 
 ## My process
 
